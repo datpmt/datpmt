@@ -1,4 +1,4 @@
-<!-- prettier-ignore -->
+<img src='images/top.gif'></img>
 <table>
   <thead>
     <tr>
@@ -14,8 +14,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=datpmt&theme=radical&hide_border=false)
         </div>
-        <div class="Teach-stats">
-          <h3 align="left">Teach Stats</h3>
+        <div class="Tech-stats">
+          <h3 align="left">Tech Stats</h3>
           <img src='https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png' width='20'>
           <img src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png' width='20'>
           <img src='https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png' width='20'>
@@ -50,29 +50,35 @@
           <img src='https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png' width='20'>
         </div>
       </th>
-      <th valign="top" width="800">
+      <th valign="top" align="left" width="800">
         <div>
           <h3 align="left">Favorites movies</h3>
-          <img width='auto' align=top height='120px' src='images/tinh_than_bien.jpeg'></img>
-          <img width='auto' align=top height='120px' src='images/tay_hanh_ky.webp'></img>
-          <img width='auto' align=top height='120px' src='images/nguyen_long.webp'></img>
-          <img width='auto' align=top height='120px' src='images/natra_ma_dong.jpeg'></img>
-          <img width='auto' align=top height='120px' src='images/quyen_tu_luong.jpeg'></img>
+          <img width='auto' height='120' src='images/tinh_than_bien.jpeg'></img>
+          <img width='auto' height='120' src='images/tay_hanh_ky.webp'></img>
+          <img width='auto' height='120' src='images/nguyen_long.webp'></img>
+          <img width='auto' height='120' src='images/natra_ma_dong.jpeg'></img>
+          <img width='auto' height='120' src='images/quyen_tu_luong.jpeg'></img>
         </div>
         <div>
           <h3 align="left">Favorites characters</h3>
-            <img width='auto' align=top height='50px' src='images/characters/tan_vu.jpeg'></img>
-            <img width='auto' align=top height='50px' src='images/characters/sat_am.jpeg'></img>
-            <img width='auto' align=top height='50px' src='images/characters/duong_tang.jpeg'></img>
-            <img width='auto' align=top height='50px' src='images/characters/ngo_khong.jpeg'></img>
-            <img width='auto' align=top height='50px' src='images/characters/tieu_dao.jpeg'></img>
-            <img width='auto' align=top height='50px' src='images/characters/doi_vo_ky.jpeg'></img>
-            <img width='auto' align=top height='50px' src='images/characters/tuong_vy.jpeg'></img>
-            <img width='auto' align=top height='50px' src='images/characters/natra.jpeg'></img>
-            <img width='auto' align=top height='50px' src='images/characters/do_le.jpeg'></img>
-            <img width='auto' align=top height='50px' src='images/characters/kinh_huyen.webp'></img>
+            <img width='auto' height='50' src='images/characters/tan_vu.jpeg'></img>
+            <img width='auto' height='50' src='images/characters/sat_am.jpeg'></img>
+            <img width='auto' height='50' src='images/characters/duong_tang.jpeg'></img>
+            <img width='auto' height='50' src='images/characters/ngo_khong.jpeg'></img>
+            <img width='auto' height='50' src='images/characters/tieu_dao.jpeg'></img>
+            <img width='auto' height='50' src='images/characters/doi_vo_ky.jpeg'></img>
+            <img width='auto' height='50' src='images/characters/tuong_vy.jpeg'></img>
+            <img width='auto' height='50' src='images/characters/natra.jpeg'></img>
+            <img width='auto' height='50' src='images/characters/do_le.jpeg'></img>
+            <img width='auto' height='50' src='images/characters/kinh_huyen.webp'></img>
         </div>
+        </br>
+        </br>
+        </br>
+        <img src='https://i5.walmartimages.com/asr/bbfc2b7e-670d-4780-9406-9e30a512046a.8171db1904c14726f2e157d8089e5e74.jpeg'></img>
       </th>
     </tr>
   </thead>
 </table>
+
+[![](https://visitcount.itsvg.in/api?id=datpmt&icon=0&color=0)](https://visitcount.itsvg.in)
