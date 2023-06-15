@@ -75,7 +75,7 @@
         </br>
         </br>
         </br>
-        <img src='https://i5.walmartimages.com/asr/bbfc2b7e-670d-4780-9406-9e30a512046a.8171db1904c14726f2e157d8089e5e74.jpeg'></img>
+        <img src='images/kid.png'></img>
       </th>
     </tr>
   </thead>
