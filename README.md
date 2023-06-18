@@ -2,7 +2,7 @@
 <table>
   <thead>
     <tr>
-      <th width="800">
+      <th valign="top" width="800">
         <div>
           <h3 align="left">Hi! I'm Datpmt</h3>
           <img align="left" src='images/pepe_wiggle.gif'></img>
