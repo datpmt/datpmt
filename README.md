@@ -6,7 +6,7 @@
         <div>
           <h3 align="left">Hi! I'm Datpmt</h3>
           <img align="left" src='images/pepe_wiggle.gif'></img>
-          <img src="https://metrics.lecoq.io/datpmt" alt="Metrics">
+          <img src="github-metrics.svg" alt="Metrics">
         </div>
         <div class="github-stats">
           <h3 align="left">Github Stats</h3>
