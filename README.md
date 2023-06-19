@@ -6,7 +6,7 @@
         <div>
           <h3 align="left">Hi! I'm Datpmt</h3>
           <img align="left" src='images/pepe_wiggle.gif'></img>
-          <img alt="🦑" src="https://metrics.lecoq.io/datpmt?template=classic&isocalendar=1&introduction=1&discussions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&discussions=false&discussions.categories=true&discussions.categories.limit=0&introduction=false&introduction.title=true&config.timezone=Asia%2FSaigon">
+          <img src="https://metrics.lecoq.io/datpmt" alt="Metrics">
         </div>
         <div class="github-stats">
           <h3 align="left">Github Stats</h3>
