@@ -20,7 +20,6 @@
     <img src='https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png' width='20'>
     <img src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png' width='20'>
     <img src='https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png' width='20'>
-    <img src='https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png' width='20'>
     <img src='https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png' width='20'>
     <img src='https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png' width='20'>
     <img src='https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png' width='20'>
@@ -52,7 +51,7 @@
   </p>
 </div>
 <div>
-  <h3 align="left">Favorites movies</h3>
+  <h3 align="left">Favorite movies</h3>
   <p align="center" width="100%">
     <img width='auto' height='120' src='images/tinh_than_bien.jpeg'>
     <img width='auto' height='120' src='images/tay_hanh_ky.webp'>
@@ -62,7 +61,7 @@
   </p>
 </div>
 <div>
-  <h3 align="left">Favorites characters</h3>
+  <h3 align="left">Favorite characters</h3>
   <p align="center" width="100%">
     <img width='auto' height='50' src='images/characters/tan_vu.jpeg'>
     <img width='auto' height='50' src='images/characters/sat_am.jpeg'>
