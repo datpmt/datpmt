@@ -9,13 +9,13 @@
   </p>
 </div>
 <div class="github-stats">
-  <h3 align="left">Github Stats</h3>
+  <h3 align="center">Github Stats</h3>
   <p align="center" width="100%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=datpmt&theme=radical&hide_border=false" alt="Metrics">
   </p>
 </div>
 <div class="Tech-stats">
-  <h3 align="left">Tech Stats</h3>
+  <h3 align="center">Tech Stats</h3>
   <p align="center" width="100%">
     <img src='https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png' width='20'>
     <img src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png' width='20'>
@@ -51,7 +51,7 @@
   </p>
 </div>
 <div>
-  <h3 align="left">Favorite movies</h3>
+  <h3 align="center">Favorite movies</h3>
   <p align="center" width="100%">
     <img width='auto' height='120' src='images/tinh_than_bien.jpeg'>
     <img width='auto' height='120' src='images/tay_hanh_ky.webp'>
@@ -61,7 +61,7 @@
   </p>
 </div>
 <div>
-  <h3 align="left">Favorite characters</h3>
+  <h3 align="center">Favorite characters</h3>
   <p align="center" width="100%">
     <img width='auto' height='50' src='images/characters/tan_vu.jpeg'>
     <img width='auto' height='50' src='images/characters/sat_am.jpeg'>
