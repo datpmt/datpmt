@@ -1394,7 +1394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rubocop/rubocop</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Ruby static code analyzer and formatter, based on the community Ruby style guide.</div>
@@ -1603,7 +1603,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2024, 14:10:28 (timezone Asia/Saigon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2024, 15:13:51 (timezone Asia/Saigon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
