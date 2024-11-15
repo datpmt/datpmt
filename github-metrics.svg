@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -270,14 +270,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="123.86989191429221" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="123.86989191429221" y="0" width="93.24198556352849" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="217.11187747782068" y="0" width="75.52478848584468" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="292.6366659636654" y="0" width="70.29411877803193" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="362.9307847416973" y="0" width="64.06248863045786" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="426.99327337215516" y="0" width="30.48728341669272" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.4805567888479" y="0" width="2.4702557987992577" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="459.95081258764714" y="0" width="0.049187412352846696" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="123.86635627038788" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="123.86635627038788" y="0" width="93.23932413827985" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="217.10568040866772" y="0" width="75.52263276621088" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="292.6283131748786" y="0" width="70.30524223347484" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="362.93355540835347" y="0" width="64.06066008161582" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="426.9942154899693" y="0" width="30.486413211866463" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.48062870183577" y="0" width="2.4701852897778793" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="459.9508139916136" y="0" width="0.04918600838637859" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1367,7 +1367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rameerez/nondisposable</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗑️ Block disposable emails in your Rails app</div>
@@ -1420,7 +1420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tegonhq/tegon</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tegon is an open-source, dev-first alternative to Jira, Linear</div>
@@ -1576,7 +1576,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2024, 09:18:50 (timezone Asia/Saigon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2024, 10:23:05 (timezone Asia/Saigon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
