@@ -1372,7 +1372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tmm1/stackprof</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a sampling call-stack profiler for ruby 2.2+</div>
@@ -1553,7 +1553,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2024, 07:44:42 (timezone Asia/Saigon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Dec 2024, 09:09:47 (timezone Asia/Saigon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
