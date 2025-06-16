@@ -1,4 +1,3 @@
-<img src='images/top.gif'></img>
 <div>
   <h3 align="center">Hi! I'm Datpmt</h3>
   <p align="center" width="100%">
@@ -16,4 +15,3 @@
   <img src='images/vuonglam.jpg' width="60%">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=datpmt&icon=0&color=0)](https://visitcount.itsvg.in)
